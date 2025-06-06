@@ -1,4 +1,3 @@
-## Introduction 
 
 Welcome to my little internet corner where we learn something new every day!
 
