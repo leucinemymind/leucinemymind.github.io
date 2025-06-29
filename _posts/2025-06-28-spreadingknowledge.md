@@ -1,6 +1,6 @@
 ---
-title: "My LaTeX origin story"
-date: 2025-06-01
+title: "Spreading knowledge"
+date: 2025-06-08
 ---
 
 This isn’t my typical post, but I’ve committed to sharing my authentic experience, so today we’re talking about something a little less techy and a little more big-picture.
