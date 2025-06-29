@@ -1,6 +1,6 @@
 ---
 title: "Spreading knowledge"
-date: 2025-06-08
+date: 2025-06-28
 ---
 
 This isn’t my typical post, but I’ve committed to sharing my authentic experience, so today we’re talking about something a little less techy and a little more big-picture.
