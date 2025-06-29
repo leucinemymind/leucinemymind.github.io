@@ -11,6 +11,6 @@ I’ve had the pleasure to talk with lots of wonderful scientists and engineers 
 
 So here I am trying to spread knowledge about LaTeX through nothing other than a LaTeX workshop open to anyone in the upper school! Yes, the thought of educating others on a tool that I haven’t fully mastered yet does intimidate me, but theoretically, by the time I became well-versed in the usage of every package and feature, developers would have published completely new packages. I love LaTeX more than I love to avoid public speaking, and I really do believe it has the potential to be as popular of a resource for high school students as it is for college students if they start their journey right - with patience, with passion, and with too much time on their hands to sit in front of a computer and try not to crash before their software does.
 
-I’m incredibly fortunate to have the support of my computer science teacher, my marine biology teacher, and the enthusiastic young ladies who happen to be brilliant programmers and I hope we can all come together to make this workshop a reality next year. 
+I’m incredibly fortunate to have the support of my computer science teacher, my marine biology teacher, and the enthusiastic, ambitious, brilliant young ladies who are *the* Girls Who Code, and I hope we can all come together to make this workshop a reality next year. 
 
 See you all very soon!
