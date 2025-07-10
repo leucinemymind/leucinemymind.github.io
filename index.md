@@ -15,4 +15,4 @@ What I'm currently up to:
 - Developing my skills (and trying to find my niche) with biochemistry pre-college and a virtual clinical internship
 - An independent computational biology project that will not yet be revealed
 
-[github.com/leucinemymind](Find me on GitHub here!)
+[Find me on GitHub here!](https://github.com/leucinemymind)
