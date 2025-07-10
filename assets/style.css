@@ -45,6 +45,19 @@ a:hover {
   text-shadow: 0 0 8px #869cfc;
 }
 
+blockquote {
+  border-left: 4px solid #609fbf;
+  padding-left: 1em;
+  color: #cce7f0;
+  font-style: italic;
+}
+
+code {
+  background: #092d3c;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+}
+
 #music-icon {
   cursor: pointer;
   font-size: 20px;
@@ -58,16 +71,3 @@ a:hover {
 #music-icon:hover {
   color: #b3b9f5;
   text-shadow: 0 0 8px #869cfc;
-
-blockquote {
-  border-left: 4px solid #609fbf;
-  padding-left: 1em;
-  color: #cce7f0;
-  font-style: italic;
-}
-
-code {
-  background: #092d3c;
-  padding: 0.2em 0.4em;
-  border-radius: 4px;
-}
