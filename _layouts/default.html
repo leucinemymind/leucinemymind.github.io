@@ -1,23 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>{{ page.title }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@1000;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
-  <link href="https://fonts.googleapis.com/css2?family=Allura&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@1000;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}" />
+  <link href="https://fonts.googleapis.com/css2?family=Allura&display=swap" rel="stylesheet" />
 </head>
 <body>
 
-  <div id="music-icon">🎵</div>
+  <div id="music-icon">ocean waves</div>
 
   <!-- Background audio -->
-  <audio id="bg-music" loop>
-    <source src="{{ '/assets/oceanwaves.mp3' | relative_url }}" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
+  <audio id="bg-music" loop></audio>
 
   <main>
     <h1>emily's blog</h1>
@@ -27,17 +24,33 @@
   <script>
     const icon = document.getElementById('music-icon');
     const audio = document.getElementById('bg-music');
-    let isPlaying = false;
 
-    icon.addEventListener('click', () => {
-      if (!isPlaying) {
-        audio.play();
-        icon.textContent = '🌊';  // playing
+    const tracks = [
+      { label: "ocean waves", src: null },  // no sound on this label
+      { label: "soft memories", src: "{{ '/assets/oceanwaves.mp3' | relative_url }}" },
+      { label: "wind chimes", src: "{{ '/assets/pianomusic.mp3' | relative_url }}" },
+      { label: "mute", src: "{{ '/assets/windchimes.mp3' | relative_url }}" }
+    ];
+
+    let currentIndex = 0;
+
+    icon.addEventListener('click', async () => {
+      currentIndex = (currentIndex + 1) % tracks.length;
+      const track = tracks[currentIndex];
+
+      icon.textContent = track.label;
+
+      if (track.src) {
+        audio.src = track.src;
+        try {
+          await audio.play();
+        } catch (e) {
+          console.error("Audio playback failed:", e);
+        }
       } else {
         audio.pause();
-        icon.textContent = '🚫'; // paused
+        audio.src = "";
       }
-      isPlaying = !isPlaying;
     });
   </script>
 
