@@ -1,5 +1,6 @@
 title: "notes from your local girl who codes"
 author: "@leucinemymind"
+theme: minima
 
 sass:
   style: compressed
