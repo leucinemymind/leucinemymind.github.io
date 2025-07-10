@@ -1,3 +1,9 @@
 theme: minima
 title: "notes from your local girl who codes"
 author: "@leucinemymind"
+
+sass:
+  style: compressed
+
+minima:
+  skin: null
