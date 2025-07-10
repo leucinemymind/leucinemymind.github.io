@@ -45,6 +45,19 @@ a:hover {
   text-shadow: 0 0 8px #869cfc;
 }
 
+#music-icon {
+  cursor: pointer;
+  font-family: 'Allura', cursive;
+  color: #8ed6f5;            
+  transition: color 0.4s ease, text-shadow 0.4s ease;
+  font-weight: 400;           
+  display: inline-block;      
+}
+
+#music-icon:hover {
+  color: #b3b9f5;              
+  text-shadow: 0 0 8px #869cfc;
+
 blockquote {
   border-left: 4px solid #609fbf;
   padding-left: 1em;
