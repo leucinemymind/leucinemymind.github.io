@@ -16,6 +16,5 @@ What I'm currently up to:
 - An independent computational biology project that will not yet be revealed
 
 Contact me:
-[mailto:emilyy2009x@gmail.com](Email)
-[github.com/leucinemymind](GitHub)
-[guthib.com](GutHib)
+- [Email](mailto:emilyy2009x@gmail.com)
+- [GitHub](github.com/leucinemymind)
