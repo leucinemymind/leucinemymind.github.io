@@ -10,16 +10,14 @@ body {
 
 h1, h2, h3 {
   font-family: 'Great Vibes', cursive;
-  font-size: 3.5rem;
+  font-size: 40px;
   color: #ffffff;
   margin-top: 1.5em;
   margin-bottom: 0.5em;
 }
 
-h1.site-title {
+h1 {
   text-align: center;
-  margin: 2rem 0;
-  font-size: 4.5rem;
 }
 
 a {
