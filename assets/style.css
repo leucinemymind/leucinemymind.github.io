@@ -3,7 +3,7 @@ body {
   font-size: 20px;
   line-height: 1.7;
   color: #f2f2f2;
-  background-color: #041f2a;
+  background-color: #0a1045;
   margin: 0;
   padding: 2rem;
 }
@@ -27,10 +27,13 @@ h1 {
 a {
   color: #8ed6f5;
   text-decoration: none;
+  transition: color 0.4s ease, text-shadow 0.4s ease;
 }
+
 a:hover {
+  color: #b3b9f5;
   text-decoration: underline;
-  color: #869cfc;
+  text-shadow: 0 0 8px #869cfc;
 }
 
 blockquote {
