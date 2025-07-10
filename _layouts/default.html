@@ -20,4 +20,29 @@
   </main>
 
 </body>
+  <div id="music-icon">🎵</div>
+
+  <!-- Background audio -->
+  <audio id="bg-music" loop>
+    <source src="oceanwaves.mp3" type="audio/mpeg">
+  </audio>
+
+  <script>
+    const icon = document.getElementById('music-icon');
+    const audio = document.getElementById('bg-music');
+    let isPlaying = false;
+
+    icon.addEventListener('click', () => {
+      if (!isPlaying) {
+        audio.play();
+        icon.textContent = '🎵';  // playing
+      } else {
+        audio.pause();
+        icon.textContent = '🚫'; // paused
+      }
+      isPlaying = !isPlaying;
+    });
+  </script>
+
+  
 </html>
