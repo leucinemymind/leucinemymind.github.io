@@ -11,7 +11,7 @@
 </head>
 <body>
 
-  <div id="music-icon">play music (ocean waves)</div>
+  <div id="music-icon">play music</div>
 
   <!-- Background audio -->
   <audio id="bg-music" loop></audio>
@@ -26,7 +26,7 @@
     const audio = document.getElementById('bg-music');
 
     const tracks = [
-      { label: "play music (ocean waves)", src: null },  // no sound on this label
+      { label: "muted (play ocean waves)", src: null },  // no sound on this label
       { label: "ocean waves (play soft memories)", src: "{{ '/assets/oceanwaves.mp3' | relative_url }}" },
       { label: "soft memories (play wind chimes)", src: "{{ '/assets/pianomusic.mp3' | relative_url }}" },
       { label: "wind chimes (mute)", src: "{{ '/assets/windchimes.mp3' | relative_url }}" }
