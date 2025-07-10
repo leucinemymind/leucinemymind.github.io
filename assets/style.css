@@ -1,17 +1,25 @@
 body {
-  background-color: #041f2a;
-  color: #f2f2f2;
   font-family: 'Cormorant Garamond', serif;
+  font-size: 20px;
+  line-height: 1.7;
+  color: #f2f2f2;
+  background-color: #041f2a;
   margin: 0;
   padding: 2rem;
-  line-height: 1.7;
 }
 
 h1, h2, h3 {
   font-family: 'Great Vibes', cursive;
+  font-size: 3.5rem;
   color: #ffffff;
   margin-top: 1.5em;
   margin-bottom: 0.5em;
+}
+
+h1.site-title {
+  text-align: center;
+  margin: 2rem 0;
+  font-size: 4.5rem;
 }
 
 a {
