@@ -16,18 +16,45 @@
     <source src="oceanwaves.mp3" type="audio/mpeg">
   </audio>
 
-  <div class="wrapper">
-    <aside class="sidebar">
-      <h2>Contact</h2>
-      <ul>
-        <li><a href="mailto:emilyy2009x@gmail.com">Email</a></li>
-        <li><a href="https://github.com/leucinemymind">GitHub</a></li>
-      </ul>
-    </aside>
+  <button id="openSidebar" class="contact-toggle">Contact</button>
+
+  <!-- Slide-in sidebar -->
+  <div id="sidebar" class="sidebar">
+    <button id="closeSidebar" class="close-btn">&times;</button>
+    <h2>Contact</h2>
+    <ul>
+      <li><a href="emilyy2009x@gmail.com" style="font-family: Allura, cursive;">Email</a></li>
+      <li><a href="https://github.com/leucinemymind" style="font-family: Allura, cursive;">GitHub</a></li>
+    </ul>
+  </div>
+  
+  <div id="overlay" class="overlay"></div>
 
   <main>
     {{ content }}
   </main>
+
+  <script>
+    const openBtn = document.getElementById('openSidebar');
+    const closeBtn = document.getElementById('closeSidebar');
+    const sidebar = document.getElementById('sidebar');
+    const overlay = document.getElementById('overlay');
+
+    openBtn.onclick = () => {
+      sidebar.classList.add('active');
+      overlay.classList.add('active');
+    };
+
+    closeBtn.onclick = () => {
+      sidebar.classList.remove('active');
+      overlay.classList.remove('active');
+    };
+
+    overlay.onclick = () => {
+      sidebar.classList.remove('active');
+      overlay.classList.remove('active');
+    };
+  </script>
 
 </body>
 </html>
