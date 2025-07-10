@@ -15,4 +15,7 @@ What I'm currently up to:
 - Developing my skills (and trying to find my niche) with biochemistry pre-college and a virtual clinical internship
 - An independent computational biology project that will not yet be revealed
 
-Follow my learning journey! :)
+Contact me:
+[mailto:emilyy2009x@gmail.com](Email)
+[github.com/leucinemymind](GitHub)
+[guthib.com](GutHib)
