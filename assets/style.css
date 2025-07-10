@@ -50,7 +50,7 @@ a {
 
 a:hover {
   color: #b3b9f5;
-  font-weight: 1000;
+  font-family: 'Allura', cursive;
   text-shadow: 0 0 8px #869cfc;
 }
 
