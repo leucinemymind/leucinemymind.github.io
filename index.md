@@ -1,3 +1,5 @@
+> "But I don't want comfort. I want God, I want poetry, I want real danger, I want freedom, I want goodness, I want sin." --Aldous Huxley, *Brave New World*
+
 You found my little internet corner! Welcome!
 
 I'm Emily, a rising junior in high school and professional Googler of things I thought I already knew. I share my real (read: mildly disastrous) experiences learning whatever the tech world throws at me. I love biology, especially biophysics/biochemistry, programming, the performing arts, the ocean, Bo Burnham's music, Nerdfighteria, and reading a good book on the beach.
