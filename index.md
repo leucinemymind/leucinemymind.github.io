@@ -1,4 +1,4 @@
-> "But I don't want comfort. I want God, I want poetry, I want real danger, I want freedom, I want goodness, I want sin." <br/> --Aldous Huxley, **Brave New World**
+> "But I don't want comfort. I want God, I want poetry, I want real danger, I want freedom, I want goodness, I want sin." <br/> ---Aldous Huxley, **Brave New World**
 
 You found my little internet corner! Welcome!
 
@@ -6,7 +6,7 @@ I'm Emily, a rising junior in high school and professional Googler of things I t
 
 My past endeavors:
 - Introductory biochemistry research focusing on the thermodynamics of protein folding
-- Python peer tutoring
+- <a href="https://www.youtube.com/watch?v=yKQ_sQKBASM">Python</a> peer tutoring
 - Creating a comprehensive, concise LaTeX tutorial for students
 - Shows, a lot of them
 
