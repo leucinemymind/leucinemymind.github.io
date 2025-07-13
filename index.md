@@ -6,7 +6,7 @@ I'm Emily, a rising junior in high school and professional Googler of things I t
 
 My past endeavors:
 - Introductory biochemistry research focusing on the thermodynamics of protein folding
-- <a href="https://www.youtube.com/watch?v=yKQ_sQKBASM">Python</a> peer tutoring
+- <a href="https://www.youtube.com/watch?v=yKQ_sQKBASM" style="color:#ffffff">Python</a> peer tutoring
 - Creating a comprehensive, concise LaTeX tutorial for students
 - Shows, a lot of them
 
