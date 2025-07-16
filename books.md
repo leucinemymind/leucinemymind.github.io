@@ -20,14 +20,18 @@ normal text = memorable, but not up there <br/>
 
 ### classics
 
+- *A Christmas Carol* by Charles Dickens
 - ***Brave New World*** **by Aldous Huxley**
 - *Catherine, Called Birdy* by Karen Cushman
 - <span style="font-weight: bold; text-decoration: underline">*East of Eden* by John Steinbeck</span> (review coming soon!)
 - ***Frankenstein*** **by Mary Shelley**
 - <span style="font-weight: bold; text-decoration:underline">*Jane Eyre* by Charlotte Brontë</span>
+- *Oliver Twist* by Charles Dickens
 - *Pride and Prejudice* by Jane Austen
 - <span style="color:#4a4aa8">*The Age of Innocence* by Edith Wharton</span>
+- *The Little Mermaid* by Hans Christian Andersen
 - *The Old Man and the Sea* by Ernest Hemingway
+- *The Snow Queen* by Hans Christian Andersen
 - *Uncle Tom's Cabin* by Harriet Beecher Stowe
 
 ### popular science
