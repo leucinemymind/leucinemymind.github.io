@@ -6,11 +6,11 @@ permalink: /books/
 
 <div style="text-align:center">
 
-Even a list of my favorite books must have a hierarchy. So: <br/> <br/>
+Even a list of my favorite books must have a hierarchy. So: <br/>
 
-<span style="font-size: 1.5em; font-weight: bold; text-decoration: underline">bold = my absolute favorites</span> <br/> <br/>
+<span style="font-weight: bold; text-decoration: underline">my absolute favorites</span> <br/>
 
-<span style="font-size: 1.2em; font-weight: bold">my favorites</span> <br/> <br/>
+<span style="font-weight: bold">my favorites</span> <br/>
 
 barely made it on the list (sorry)
 
@@ -19,7 +19,7 @@ barely made it on the list (sorry)
 ### classics
 
 - *Brave New World* by **Aldous Huxley**
-- <span style="font-size: 1.5em; font-weight: bold; text-decoration: underline">*East of Eden* by John Steinbeck</span> (review coming soon!)
+- <span style="font-weight: bold; text-decoration: underline">*East of Eden* by John Steinbeck</span> (review coming soon!)
 - *Jane Eyre* by Charlotte Brontë
 
 ### popular science
