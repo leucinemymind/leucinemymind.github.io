@@ -19,7 +19,7 @@ barely made it on the list (sorry)
 ### classics
 
 - *Brave New World* by **Aldous Huxley**
-- *East of Eden* by **John Steinbeck** (review coming soon!)
+- <style="font-size: 1.5em; font-weight: bold; text-decoration: underline">*East of Eden* by John Steinbeck</style> (review coming soon!)
 - *Jane Eyre* by **Charlotte Brontë**
 
 ### popular science
