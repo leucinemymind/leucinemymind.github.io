@@ -4,8 +4,6 @@ permalink: /books/
 ---
 # my library 
 
-([go home](leucinemymind.github.io))
-
 <div style="text-align:center">
 
 Hierarchies are a must for reading lists, so: <br/><br/>
