@@ -14,7 +14,7 @@ Hierarchies are a must for reading lists, so: <br/><br/>
 
 normal text = memorable, but not up there <br/>
 
-<span style="color:#4a4aa8">blue = haven't read yet, but looks wonderfully appealing</span> <br/>
+<span style="color:#4a4aa8">blue = currently reading</span> <br/>
 
 </div>
 
@@ -25,16 +25,18 @@ normal text = memorable, but not up there <br/>
 - <span style="font-weight: bold; text-decoration: underline">*East of Eden* by John Steinbeck</span> (review coming soon!)
 - ***Frankenstein*** **by Mary Shelley**
 - <span style="font-weight: bold, text-decoration:underline">*Jane Eyre* by Charlotte Brontë</span>
-- <span style="color:#4a4aa8">*The Metamorphosis* by Franz Kafka</span>
+- *Pride and Prejudice* by Jane Austen
+- <span style="color:#4a4aa8">*The Age of Innocence* by Edith Wharton</span>
 - *The Old Man and the Sea* by Ernest Hemingway
-- <span style="color:#4a4aa8">*The Overstory* by Richard Powers</span>
 - *Uncle Tom's Cabin* by Harriet Beecher Stowe
 
 ### popular science
 
-- ***Blue Hope: Exploring and Caring for Earth's Magnificent Ocean*** **by Sylvia Earle**
+- *Blue Hope: Exploring and Caring for Earth's Magnificent Ocean* by Sylvia Earle
 - <span style="font-weight: bold; text-decoration: underline">*Cosmos* by Carl Sagan</span>
-- <span style="font-weight: bold">*Silent Spring* by Rachel Carson</span>
+- *On the Origin of Species* by Charles Darwin
+- ***Silent Spring*** **by Rachel Carson**
+- <span style="color:#4a4aa8">*The Edge of the Sea* by Rachel Carson</span>
 
 ### miscellaneous
 
