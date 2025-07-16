@@ -33,10 +33,10 @@ Hierarchies are a must for reading lists, so: <br/><br/>
 
 ### modern classics
 
-- <span style"font-weight: bold; text-decoration: underline">*The Fault in Our Stars* by John Green</span>
+- <span style="font-weight: bold; text-decoration: underline">*The Fault in Our Stars* by John Green</span>
 - <span style="font-weight: bold; text-decoration: underline">*The Joy Luck Club* by Amy Tan</span>
 - <span style="font-weight: bold">*Turtles All The Way Down* by John Green</span>
-- <span style"font-weight: bold; text-decoration: underline">*Where the Crawdads Sing* by Delia Owens</span>
+- <span style="font-weight: bold; text-decoration: underline">*Where the Crawdads Sing* by Delia Owens</span>
 
 <h3 style="color:#000000">do not read these. ever.</h3>
 <div style="color:#000000">
