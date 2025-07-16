@@ -39,6 +39,7 @@ Hierarchies are a must for reading lists, so: <br/><br/>
 - <span style="font-weight: bold; text-decoration: underline">*Where the Crawdads Sing* by Delia Owens</span>
 
 <h3 style="color:#000000">do not read these. ever.</h3>
+(Yes, I'm aware that the black text is hard to read. The reason is because I want you to be mentally prepared for these titles before reading them since they might be controversial...)
 <div style="color:#000000">
 - <em>Journey to Rainbow Island</em> by Christie Hsiao
 </div>
