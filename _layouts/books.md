@@ -1,3 +1,9 @@
+---
+layout: default
+title: Books
+---
+
+
 # my favorite books
 
 - *Brave New World* by **Aldous Huxley**
@@ -5,3 +11,4 @@
 - *East of Eden* by **John Steinbeck** (review coming soon!)
 - *The Fault in Our Stars* by **John Green**
 - *Turtles All The Way Down* by **John Green**
+- 
