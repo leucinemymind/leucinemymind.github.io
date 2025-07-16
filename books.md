@@ -21,18 +21,24 @@ normal text = memorable, but not up there <br/>
 ### classics
 
 - *A Christmas Carol* by Charles Dickens
+- *Alice in Wonderland* by Lewis Carroll
 - ***Brave New World*** **by Aldous Huxley**
 - *Catherine, Called Birdy* by Karen Cushman
 - <span style="font-weight: bold; text-decoration: underline">*East of Eden* by John Steinbeck</span> (review coming soon!)
 - *Fahrenheit 451* by Ray Bradbury
 - ***Frankenstein*** **by Mary Shelley**
 - <span style="font-weight: bold; text-decoration:underline">*Jane Eyre* by Charlotte Brontë</span>
+- ***Little Women*** **by Louisa May Alcott**
+- *Of Mice and Men* by John Steinbeck
 - *Oliver Twist* by Charles Dickens
 - *Pride and Prejudice* by Jane Austen
 - <span style="color:#4a4aa8">*The Age of Innocence* by Edith Wharton</span>
 - ***The Arabian Nights*** **by Anonymous**
 - *The Little Mermaid* by Hans Christian Andersen
+- *The Odyssey* by Homer
 - *The Old Man and the Sea* by Ernest Hemingway
+- ***The Pearl*** **by John Steinbeck**
+- *The Red Pony* by John Steinbeck
 - *The Snow Queen* by Hans Christian Andersen
 - ***To Kill a Mockingbird*** **by Harper Lee**
 - *Uncle Tom's Cabin* by Harriet Beecher Stowe
@@ -53,6 +59,7 @@ normal text = memorable, but not up there <br/>
 
 - *An Abundance of Katherines* by John Green
 - ***Looking for Alaska*** **by John Green**
+- ***The Book Thief*** **by Markus Zusak**
 - <span style="font-weight: bold; text-decoration: underline">*The Fault in Our Stars* by John Green</span>
 - <span style="font-weight: bold; text-decoration: underline">*The Joy Luck Club* by Amy Tan</span>
 - ***Turtles All The Way Down*** **by John Green**
