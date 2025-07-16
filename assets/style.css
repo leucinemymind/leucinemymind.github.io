@@ -34,10 +34,10 @@
     background-color: #0a1045;
   }
   50% {
-    background-color: black;
+    background-color: #403dff;
   }
   100% {
-    background-color: #0a1045;
+    background-color: #black;
   }
 }
 
