@@ -45,13 +45,4 @@ normal text = memorable, but not up there <br/>
 - ***Turtles All The Way Down*** **by John Green**
 - <span style="font-weight: bold; text-decoration: underline">*Where the Crawdads Sing* by Delia Owens</span> ([review](https://leucinemymind.github.io/2025/07/15/wtcds.html))
 
-<h3 style="color:#000000">do not read these. ever.</h3>
-(Yes, I'm aware that the black text is hard to read. The reason is because I want you to be mentally prepared for these titles before reading them since they might be controversial...)
-<div style="color:#000000">
-
-<ul>
-
-<li> <em>Journey to Rainbow Island</em> by Christie Hsiao </li>
-
-</ul>
 </div>
