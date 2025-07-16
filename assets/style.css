@@ -26,7 +26,7 @@
   }
 
 .pulse-bg {
-  animation: bgpulse 10s ease forwards;
+  animation: bgpulse 30s ease forwards;
 }
 
 @keyframes bgpulse {
