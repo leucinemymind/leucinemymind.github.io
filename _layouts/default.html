@@ -74,6 +74,23 @@
       }
     });
   });
+  
+  // all glowing at the same time
+  function checkAllGlowing() {
+  if (allGlowingTriggered) return;
+
+  const allGlowing = [...hoverables].every(el => el.classList.contains('glow'));
+  if (allGlowing) {
+    allGlowingTriggered = true;
+
+    audio.play();
+
+    quote.classList.add('pulse-bg');
+
+    setTimeout(() => {
+      quote.classList.remove('pulse-bg');
+    }, 2000);
+  }
   </script>
 
 </body>

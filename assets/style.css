@@ -25,6 +25,23 @@
     text-shadow: 0 0 8px #869cfc;
   }
 
+.pulse-bg {
+  animation: bgpulse 10s ease forwards;
+}
+
+@keyframes bgpulse {
+  0% {
+    background-color: initial;
+  }
+  50% {
+    background-color: black;
+  }
+  100% {
+    background-color: initial;
+  }
+}
+
+
 /*...notclasses?*/
 
 body {
