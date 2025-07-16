@@ -4,27 +4,28 @@ permalink: /books/
 ---
 # my favorite books!
 
-<style="text-align:center">
+<div style="text-align:center">
 
 Even a list of my favorite books must have a hierarchy. So: <br/> <br/>
 
-<style="font-size: 1.5em; font-weight: bold; text-decoration: underline">bold = my absolute favorites</style> <br/> <br/>
+<span style="font-size: 1.5em; font-weight: bold; text-decoration: underline">bold = my absolute favorites</span> <br/> <br/>
 
-<style="font-size: 1.2em; font-weight: bold">my favorites</style> <br/> <br/>
+<span style="font-size: 1.2em; font-weight: bold">my favorites</span> <br/> <br/>
 
 barely made it on the list (sorry)
 
-</style>
+</div>
 
 ### classics
 
 - *Brave New World* by **Aldous Huxley**
-- <style="font-size: 1.5em; font-weight: bold; text-decoration: underline">*East of Eden* by John Steinbeck</style> (review coming soon!)
-- *Jane Eyre* by **Charlotte Brontë**
+- <span style="font-size: 1.5em; font-weight: bold; text-decoration: underline">*East of Eden* by John Steinbeck</span> (review coming soon!)
+- *Jane Eyre* by Charlotte Brontë
 
 ### popular science
 
-- *Cosmos* by **Carl Sagan**
+- <span style="font-size: 1.5em; font-weight: bold; text-decoration: underline">*Cosmos* by Carl Sagan</span>
+- *Silent Spring* by Rachel Carson
 
 ### miscellaneous
 
