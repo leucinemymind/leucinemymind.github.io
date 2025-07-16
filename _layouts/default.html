@@ -34,6 +34,7 @@
 </div>
 
   <script>
+  // music icon
     const icon = document.getElementById('music-icon');
     const audio = document.getElementById('bg-music');
 
@@ -64,6 +65,15 @@
         audio.src = "";
       }
     });
+    
+  // glowing blockquote
+    document.querySelectorAll('.hoverable').forEach(el => {
+    el.addEventListener('mouseenter', () => {
+      if (!el.classList.contains('glow')) {
+        el.classList.add('glow');
+      }
+    });
+  });
   </script>
 
 </body>

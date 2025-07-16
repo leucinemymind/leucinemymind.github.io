@@ -15,6 +15,16 @@
   content: "♡";
 }
 
+.hoverable {
+    cursor: pointer;
+    transition: color 0.3s, text-shadow 0.3s;
+  }
+
+.glow {
+    color: #b3b9f5;
+    text-shadow: 0 0 8px #869cfc;
+  }
+
 /*...notclasses?*/
 
 body {

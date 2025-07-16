@@ -35,10 +35,10 @@ layout: default
 {% if paginator %}
   <div class="pager">
     {% if paginator.previous_page %}
-      <a class="previous-page" href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer</a>
+      <a class="previous-page" href="{{ paginator.previous_page_path | relative_url }}">&larr; newer</a>
     {% endif %}
     {% if paginator.next_page %}
-      <a class="next-page" href="{{ paginator.next_page_path | relative_url }}">Older &rarr;</a>
+      <a class="next-page" href="{{ paginator.next_page_path | relative_url }}">older &rarr;</a>
     {% endif %}
   </div>
 {% endif %}
