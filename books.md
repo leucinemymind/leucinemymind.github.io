@@ -24,7 +24,7 @@ normal text = memorable, but not up there <br/>
 - *Catherine, Called Birdy* by Karen Cushman
 - <span style="font-weight: bold; text-decoration: underline">*East of Eden* by John Steinbeck</span> (review coming soon!)
 - ***Frankenstein*** **by Mary Shelley**
-- <span style="font-weight: bold, text-decoration:underline">*Jane Eyre* by Charlotte Brontë</span>
+- <span style="font-weight: bold; text-decoration:underline">*Jane Eyre* by Charlotte Brontë</span>
 - *Pride and Prejudice* by Jane Austen
 - <span style="color:#4a4aa8">*The Age of Innocence* by Edith Wharton</span>
 - *The Old Man and the Sea* by Ernest Hemingway
@@ -44,5 +44,3 @@ normal text = memorable, but not up there <br/>
 - <span style="font-weight: bold; text-decoration: underline">*The Joy Luck Club* by Amy Tan</span>
 - ***Turtles All The Way Down*** **by John Green**
 - <span style="font-weight: bold; text-decoration: underline">*Where the Crawdads Sing* by Delia Owens</span> ([review](https://leucinemymind.github.io/2025/07/15/wtcds.html))
-
-</div>
