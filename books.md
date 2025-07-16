@@ -40,6 +40,7 @@ normal text = memorable, but not up there <br/>
 
 ### miscellaneous
 
+- *An Abundance of Katherines* by John Green
 - ***Looking for Alaska*** **by John Green**
 - <span style="font-weight: bold; text-decoration: underline">*The Fault in Our Stars* by John Green</span>
 - <span style="font-weight: bold; text-decoration: underline">*The Joy Luck Club* by Amy Tan</span>
