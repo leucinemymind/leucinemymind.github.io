@@ -1,4 +1,5 @@
 ---
+layout: default
 permalink: /books/
 ---
 
@@ -10,4 +11,3 @@ permalink: /books/
 - *East of Eden* by **John Steinbeck** (review coming soon!)
 - *The Fault in Our Stars* by **John Green**
 - *Turtles All The Way Down* by **John Green**
-- 
