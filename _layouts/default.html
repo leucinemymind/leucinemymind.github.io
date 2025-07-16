@@ -20,15 +20,16 @@
 
   <main>
     {% if page.tags %}
-  <p>tags:
+  <p>
+    <h6>tags</h6>:
     {% for tag in page.tags %}
-      {{ tag }} {% if forloop.last == false %}, {% endif %}
+      <span style="color:#9cdeff">{{ tag }}</span>{% if forloop.last == false %}, {% endif %}
     {% endfor %}
   </p>
     {% endif %}
 
     {{ content }}
-    <span align="center">(back to <a href="https://leucinemymind.github.io">home</a>)</span>
+    (back to <a href="https://leucinemymind.github.io">home</a>)
   </main>
   
 </div>
