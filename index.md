@@ -11,10 +11,10 @@ My past endeavors:
 - Shows, a lot of them
 
 What I'm currently up to:
-- Even more shows
+- Developing my artistic side (i.e. even more shows!)
 - Planning a school-wide LaTeX workshop
 - Prepping session content for Girls Who Code
 - Developing my skills (and trying to find my niche) with biochemistry pre-college and a virtual clinical internship
-- An independent computational biology project that will not yet be revealed
+- An independent computational biology project that will not yet be revealed :)
 
 [Find me on GitHub here!](https://github.com/leucinemymind)
