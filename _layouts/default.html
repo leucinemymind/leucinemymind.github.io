@@ -68,7 +68,7 @@ function checkAllGlowing() {
 
   const clickables = document.querySelectorAll('.clickable');
   const allGlowing = [...clickables].every(el => el.classList.contains('glow'));
-  const ofortuna = new Audio('{{ "/assets/pianomusic.mp3" | relative_url }}');
+  const ofortuna = new Audio('{{ "/assets/dramatic.mp3" | relative_url }}');
 
 
   if (allGlowing) {
