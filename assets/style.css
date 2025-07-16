@@ -106,7 +106,6 @@ blockquote {
   font-style: italic;
   position: relative;
   overflow: hidden;
-  transition: color 0.4s ease, text-shadow 0.4s ease, box-shadow 0.3s ease;
 }
 
 code {

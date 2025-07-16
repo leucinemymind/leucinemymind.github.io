@@ -67,11 +67,13 @@
     });
     
   // glowing blockquote
-  document.querySelectorAll('.clickable').forEach(el => {
-    el.addEventListener('click', () => {
-      el.classList.toggle('glow');
+      document.addEventListener('DOMContentLoaded', () => {
+      document.querySelectorAll('.clickable').forEach(el => {
+        el.addEventListener('click', () => {
+          el.classList.toggle('glow');
+        });
+      });
     });
-  });
 
   
   // all glowing at the same time
