@@ -11,9 +11,8 @@
   padding-left: 0;
 }
 
-.post-list li::before {
+.post-list li::after {
   content: "♡";
-  margin-right: 6px;
 }
 
 /*...notclasses?*/
