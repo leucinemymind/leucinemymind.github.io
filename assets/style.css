@@ -1,8 +1,22 @@
+/*classes*/
+
 .container {
   max-width: 850px;
   margin: 0 auto;
   padding: 0 1rem;
 }
+
+.post-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.post-list li::before {
+  content: "♡ ";
+  margin-right: 6px;
+}
+
+/*...notclasses?*/
 
 body {
   font-family: 'Cormorant Garamond', serif;
