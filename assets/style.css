@@ -82,35 +82,10 @@ blockquote {
   transition: color 0.4s ease, text-shadow 0.4s ease, box-shadow 0.3s ease;
 }
 
-blockquote::before {
-  content: "";
-  position: absolute;
-  top: 0; left: -75%;
-  width: 50%;
-  height: 100%;
-  background: linear-gradient(
-    120deg,
-    transparent,
-    rgba(255, 255, 255, 0.6),
-    transparent
-  );
-  transform: skewX(-20deg);
-  transition: none;
-}
-
 blockquote:hover{
   color: #b3b9f5;
+  font-family: 'Allura', cursive;
   text-shadow: 0 0 8px #869cfc;
-}
-
-blockquote:hover::before {
-  animation: shimmer 3s forwards;
-}
-
-@keyframes shimmer {
-  100% {
-    left: 125%;
-  }
 }
 
 code {
