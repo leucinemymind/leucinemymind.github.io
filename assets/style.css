@@ -78,8 +78,8 @@ blockquote {
   color: #cce7f0;
   font-style: italic;
   position: relative;
-  transition: box-shadow 0.3s ease;
   overflow: hidden;
+  transition: color 0.4s ease, text-shadow 0.4s ease, box-shadow 0.3s ease;
 }
 
 blockquote::before {
@@ -96,6 +96,11 @@ blockquote::before {
   );
   transform: skewX(-20deg);
   transition: none;
+}
+
+blockquote:hover::{
+  color: #b3b9f5;
+  text-shadow: 0 0 8px #869cfc;
 }
 
 blockquote:hover::before {
