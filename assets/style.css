@@ -16,12 +16,8 @@ body {
 }
 
 p {
-  transition: text-shadow 0.3s ease;
+  font-family: 'Cormorant Garamond', serif;
   cursor: default;
-}
-
-p:hover {
-  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
 }
 
 #audio {
@@ -49,6 +45,7 @@ h1 {
 }
 
 a {
+  font-family: 'Cormorant Garamond', serif;
   color: #8ed6f5;
   text-decoration: none;
   transition: color 0.4s ease, text-shadow 0.4s ease;
@@ -61,6 +58,7 @@ a:hover {
 }
 
 blockquote {
+  font-family: 'Cormorant Garamond', serif;
   border-left: 4px solid #609fbf;
   padding-left: 1em;
   color: #cce7f0;
