@@ -6,22 +6,22 @@ layout: default
   <h1 class="page-heading">{{ page.title }}</h1>
 
   <p class="post-meta">
-    <span class="date">{{ page.date | date: "%Y.%m.%d" }}</span>
-    &nbsp;•&nbsp;<em>
+    <span class="date", style="text-align:center">{{ page.date | date: "%Y.%m.%d" }}</span>
+    <br/> <span class="date", style="text-align:center">
       {% assign words = content | number_of_words %}
       {% assign reading_time = words | divided_by:200 %}
       estimated reading time: {{ reading_time | ceil }} minute{% if reading_time != 1 %}s{% endif %}
-    </em>
+      </span>
   </p>
 
   {% if page.tags %}
     <p class="tags">
-      <strong>Tags:</strong>
+      <span style="color:#8ed6f5">tags:</strong>
       {% for tag in page.tags %}
         <span class="tag">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}
       {% endfor %}
     </p>
-  {% endif %}
+    {% endif %}
 
   {{ content }}
 </article>
