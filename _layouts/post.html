@@ -12,6 +12,7 @@ layout: default
       {% assign reading_time = words | divided_by:200 %}
       <span style="color:#8ed6f5">{{ reading_time | ceil }} min</span>
         {% if page.tags %}
+        <br/>
       {% for tag in page.tags %}
         <span style="color:#8ed6f5">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}
       {% endfor %}
