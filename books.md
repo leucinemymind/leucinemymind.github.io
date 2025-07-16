@@ -37,7 +37,7 @@ Hierarchies are a must for reading lists, so: <br/><br/>
 - <span style="font-weight: bold">*Turtles All The Way Down* by John Green</span>
 - <span style"font-weight: bold; text-decoration: underline">*Where the Crawdads Sing* by Delia Owens</span>
 
-<h3 style="color:#000000">DO NOT READ THESE. EVER.</h3>
+<h3 style="color:#000000">do not read these. ever.</h3>
 <div style="color:#000000">
-- *Journey to Rainbow Island* by Christie Hsiao
+- <em>Journey to Rainbow Island</em> by Christie Hsiao
 </div>
