@@ -20,7 +20,7 @@ normal text = memorable, but not up there <br/>
 
 ### classics
 
-- <span style="font-weight: bold; text-decoration:underline">*Brave New World* by Aldous Huxley</span>
+- ***Brave New World*** **by Aldous Huxley**
 - *Catherine, Called Birdy* by Karen Cushman
 - <span style="font-weight: bold; text-decoration: underline">*East of Eden* by John Steinbeck</span> (review coming soon!)
 - ***Frankenstein*** **by Mary Shelley**
@@ -40,6 +40,7 @@ normal text = memorable, but not up there <br/>
 
 ### miscellaneous
 
+- ***Looking for Alaska*** **by John Green**
 - <span style="font-weight: bold; text-decoration: underline">*The Fault in Our Stars* by John Green</span>
 - <span style="font-weight: bold; text-decoration: underline">*The Joy Luck Club* by Amy Tan</span>
 - ***Turtles All The Way Down*** **by John Green**
