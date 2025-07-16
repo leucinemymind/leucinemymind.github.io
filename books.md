@@ -31,10 +31,8 @@ normal = barely made it on the list (sorry) <br/>
 - <span style="font-weight: bold; text-decoration: underline">*Cosmos* by Carl Sagan</span>
 - <span style="font-weight: bold">*Silent Spring* by Rachel Carson</span>
 
-### miscellaneous
+### modern classics
 
-- <span style"font-weight: bold; text-decoration: underline>*The Fault in Our Stars* by John Green</span>
+- <span style"font-weight: bold; text-decoration: underline">*The Fault in Our Stars* by John Green</span>
 - <span style="font-weight: bold; text-decoration: underline">*The Joy Luck Club* by Amy Tan</span>
 - <span style="font-weight: bold">*Turtles All The Way Down* by John Green</span>
-
-### left to read
