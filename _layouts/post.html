@@ -10,7 +10,7 @@ layout: default
     <br/>
       {% assign words = content | number_of_words %}
       {% assign reading_time = words | divided_by:200 %}
-      estimated reading time: </span style="color:#8ed6f5">{{ reading_time | ceil }} minute{% if reading_time != 1 %}s{% endif %}</span>
+      estimated reading time: <span style="color:#8ed6f5">{{ reading_time | ceil }} minute{% if reading_time != 1 %}s{% endif %}</span>
       </div>
   </p>
 
@@ -18,7 +18,7 @@ layout: default
     <p class="tags">
       tags:
       {% for tag in page.tags %}
-        </span style="color:#8ed6f5">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}
+        <span style="color:#8ed6f5">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}
       {% endfor %}
     </p>
     {% endif %}
