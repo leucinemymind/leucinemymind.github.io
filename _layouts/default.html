@@ -19,13 +19,6 @@
 <div class="container">
 
  <main>
-  {% if page.tags %}
-    <p>
-      {% for tag in page.tags %}
-        <span style="color:#9cdeff">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}
-      {% endfor %}
-    </p>
-  {% endif %}
 
   {{ content }}
   (back to <a href="https://leucinemymind.github.io">home</a>)
