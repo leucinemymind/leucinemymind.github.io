@@ -24,6 +24,7 @@ normal text = memorable, but not up there <br/>
 - ***Brave New World*** **by Aldous Huxley**
 - *Catherine, Called Birdy* by Karen Cushman
 - <span style="font-weight: bold; text-decoration: underline">*East of Eden* by John Steinbeck</span> (review coming soon!)
+- *Fahrenheit 451* by Ray Bradbury
 - ***Frankenstein*** **by Mary Shelley**
 - <span style="font-weight: bold; text-decoration:underline">*Jane Eyre* by Charlotte Brontë</span>
 - *Oliver Twist* by Charles Dickens
