@@ -4,25 +4,24 @@ layout: default
 
 <article class="post">
   <h1 class="page-heading">{{ page.title }}</h1>
-  
-    <p class="post-meta">
+
+  <p class="post-meta">
     <span class="date">{{ page.date | date: "%Y.%m.%d" }}</span>
-    {% if page.author %}
-      <span class="author">by {{ page.author }}</span>
-    {% endif %}
-
-  <p><em>estimated reading time: 
-    {% assign words = content | number_of_words %}
-    {% assign reading_time = words | divided_by:200 %}
-    {{ reading_time | ceil }} minute{% if reading_time != 1 %}s
-  </em></p>
-
-  <p>
-    {% for tag in page.tags %}
-      <span class="tag">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}
-    {% endfor %}
+    &nbsp;•&nbsp;<em>
+      {% assign words = content | number_of_words %}
+      {% assign reading_time = words | divided_by:200 %}
+      estimated reading time: {{ reading_time | ceil }} minute{% if reading_time != 1 %}s{% endif %}
+    </em>
   </p>
 
+  {% if page.tags %}
+    <p class="tags">
+      <strong>Tags:</strong>
+      {% for tag in page.tags %}
+        <span class="tag">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    </p>
+  {% endif %}
 
   {{ content }}
 </article>
