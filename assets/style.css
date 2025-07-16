@@ -79,6 +79,41 @@ blockquote {
   font-style: italic;
 }
 
+blockquote {
+  position: relative;
+  background: #f9f9f9;
+  border-left: 4px solid #9cdeff;
+  padding: 1em 1.5em;
+  transition: box-shadow 0.3s ease;
+  overflow: hidden;
+}
+
+blockquote::before {
+  content: "";
+  position: absolute;
+  top: 0; left: -75%;
+  width: 50%;
+  height: 100%;
+  background: linear-gradient(
+    120deg,
+    transparent,
+    rgba(255, 255, 255, 0.6),
+    transparent
+  );
+  transform: skewX(-20deg);
+  transition: none;
+}
+
+blockquote:hover::before {
+  animation: shimmer 1.2s forwards;
+}
+
+@keyframes shimmer {
+  100% {
+    left: 125%;
+  }
+}
+
 code {
   background: #092d3c;
   padding: 0.2em 0.4em;
