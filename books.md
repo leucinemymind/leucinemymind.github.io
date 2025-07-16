@@ -4,6 +4,10 @@ permalink: /books/
 ---
 # my favorite books!
 
+## test
+
+### third subheading test
+
 - *Brave New World* by **Aldous Huxley**
 - *Cosmos* by **Carl Sagan**
 - *East of Eden* by **John Steinbeck** (review coming soon!)
