@@ -57,3 +57,4 @@ normal text = memorable, but not up there <br/>
 - <span style="font-weight: bold; text-decoration: underline">*The Joy Luck Club* by Amy Tan</span>
 - ***Turtles All The Way Down*** **by John Green**
 - <span style="font-weight: bold; text-decoration: underline">*Where the Crawdads Sing* by Delia Owens</span> ([review](https://leucinemymind.github.io/2025/07/15/wtcds.html))
+- *Will Grayson, Will Grayson* by John Green and David Levithan
