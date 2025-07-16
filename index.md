@@ -3,7 +3,7 @@ layout: home
 title: emily's blog
 ---
 
-> "But I don't want comfort. I want <span class="hoverable">God</span>, I want <span class="hoverable">poetry</span>, I want <span class="hoverable">real danger</span>, I want <span class="hoverable">freedom</span>, I want <span class="hoverable">goodness</span>, I want <span class="hoverable">sin</span>." <br/> ---Aldous Huxley, **Brave New World**
+> "But I don't want comfort. I want <span class="clickable">God</span>, I want <span class="clickable">poetry</span>, I want <span class="clickable">real danger</span>, I want <span class="clickable">freedom</span>, I want <span class="clickable">goodness</span>, I want <span class="clickable">sin</span>." <br/> ---Aldous Huxley, **Brave New World**
 
 You found my little internet corner! Welcome!
 
