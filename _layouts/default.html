@@ -21,7 +21,7 @@
   <main>
     {% if page.tags %}
   <p>
-    <h3>tags</h3>
+    <h4>tags:</h4>
     {% for tag in page.tags %}
       <span style="color:#9cdeff">{{ tag }}</span>{% if forloop.last == false %}, {% endif %}
     {% endfor %}
