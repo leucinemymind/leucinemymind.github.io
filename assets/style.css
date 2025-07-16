@@ -99,7 +99,7 @@ blockquote::before {
 }
 
 blockquote:hover::before {
-  animation: shimmer 1.2s forwards;
+  animation: shimmer 3s forwards;
 }
 
 @keyframes shimmer {
