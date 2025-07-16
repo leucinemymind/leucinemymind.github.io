@@ -23,7 +23,7 @@ p {
   display: none;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4, h5, h6 {
   font-family: 'Allura', cursive;
   color: #ffffff;
   margin-top: 1em;
@@ -34,7 +34,7 @@ strong, b {
   font-weight: 1000;
 }
 
-h2, h3 {
+h2 {
   font-size: 40px;
 }
 
