@@ -68,11 +68,10 @@
     
 // all glowing at the same time
   let allGlowingTriggered = false;
-  
-  function checkAllGlowing() {
-  if (allGlowingTriggered) return;
   const clickables = document.querySelectorAll('.clickable');
   const allGlowing = [...clickables].every(el => el.classList.contains('glow'));
+  
+  function checkAllGlowing() {
   if (allGlowing) {
     allGlowingTriggered = true;
     
