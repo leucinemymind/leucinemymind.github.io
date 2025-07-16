@@ -20,7 +20,7 @@ normal = barely made it on the list (sorry)
 
 ### classics
 
-- *Brave New World* by Aldous Huxley
+- <span style="font-weight: bold">*Brave New World* by Aldous Huxley</span>
 - <span style="font-weight: bold; text-decoration: underline">*East of Eden* by John Steinbeck</span> (review coming soon!)
 - <span style="font-weight: bold">*Jane Eyre* by Charlotte Brontë</span>
 - <span style="color:#4a4aa8">*The Metamorphosis* by Franz Kafka</span>
