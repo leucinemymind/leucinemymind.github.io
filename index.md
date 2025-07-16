@@ -1,5 +1,3 @@
-# emily's blog
-
 > "But I don't want comfort. I want God, I want poetry, I want real danger, I want freedom, I want goodness, I want sin." <br/> ---Aldous Huxley, **Brave New World**
 
 You found my little internet corner! Welcome!
