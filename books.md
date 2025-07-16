@@ -27,6 +27,7 @@ Hierarchies are a must for reading lists, so: <br/><br/>
 
 ### popular science
 
+- <span style="font-weight: bold">*Blue Hope: Exploring and Caring for Earth's Magnificent Ocean* by Sylvia Earle</span>
 - <span style="font-weight: bold; text-decoration: underline">*Cosmos* by Carl Sagan</span>
 - <span style="font-weight: bold">*Silent Spring* by Rachel Carson</span>
 
