@@ -84,12 +84,11 @@ blockquote {
 
 blockquote:hover{
   color: #b3b9f5;
-  font-family: 'Allura', cursive;
   text-shadow: 0 0 8px #869cfc;
 }
 
 code {
-  background: #092d3c;
+  background: #092d3c;ƒ
   padding: 0.2em 0.4em;
   border-radius: 4px;
 }
