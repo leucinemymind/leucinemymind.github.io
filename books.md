@@ -29,6 +29,7 @@ normal text = memorable, but not up there <br/>
 - *Oliver Twist* by Charles Dickens
 - *Pride and Prejudice* by Jane Austen
 - <span style="color:#4a4aa8">*The Age of Innocence* by Edith Wharton</span>
+- ***The Arabian Nights*** **by Anonymous**
 - *The Little Mermaid* by Hans Christian Andersen
 - *The Old Man and the Sea* by Ernest Hemingway
 - *The Snow Queen* by Hans Christian Andersen
