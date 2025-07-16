@@ -83,8 +83,7 @@
   const allGlowing = [...hoverables].every(el => el.classList.contains('glow'));
   if (allGlowing) {
     allGlowingTriggered = true;
-
-    audio.play();
+    
     const quote = document.querySelector('blockquote');
     quote.classList.add('pulse-bg');
 
