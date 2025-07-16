@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@1000;700&display=swap" rel="stylesheet" />
@@ -17,7 +16,8 @@
   <audio id="bg-music" loop></audio>
 
   <main>
-    <h1>emily's <a href="https://leucinemymind.github.io/">blog</a></h1>
+    <h1>{{ page.title }}</h1>
+    (<a href="https://leucinemymind.github.io">back to home</a>)
     {{ content }}
   </main>
 

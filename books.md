@@ -2,7 +2,9 @@
 layout: default
 permalink: /books/
 ---
-# my library
+# my library 
+
+([go home](leucinemymind.github.io))
 
 <div style="text-align:center">
 
@@ -36,7 +38,7 @@ Hierarchies are a must for reading lists, so: <br/><br/>
 - <span style="font-weight: bold; text-decoration: underline">*The Fault in Our Stars* by John Green</span>
 - <span style="font-weight: bold; text-decoration: underline">*The Joy Luck Club* by Amy Tan</span>
 - <span style="font-weight: bold">*Turtles All The Way Down* by John Green</span>
-- <span style="font-weight: bold; text-decoration: underline">*Where the Crawdads Sing* by Delia Owens</span> ([https://leucinemymind.github.io/2025/07/15/wtcds.html](review))
+- <span style="font-weight: bold; text-decoration: underline">*Where the Crawdads Sing* by Delia Owens</span> ([review](https://leucinemymind.github.io/2025/07/15/wtcds.html))
 
 <h3 style="color:#000000">do not read these. ever.</h3>
 (Yes, I'm aware that the black text is hard to read. The reason is because I want you to be mentally prepared for these titles before reading them since they might be controversial...)
