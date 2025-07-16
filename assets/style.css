@@ -26,7 +26,7 @@
   }
 
 .pulse-bg {
-  animation: bgpulse 30s ease forwards;
+  animation: bgpulse 15s ease forwards;
 }
 
 @keyframes bgpulse {
@@ -37,7 +37,7 @@
     background-color: #403dff;
   }
   100% {
-    background-color: #black;
+    background-color: black;
   }
 }
 
