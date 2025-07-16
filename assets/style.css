@@ -98,7 +98,7 @@ blockquote::before {
   transition: none;
 }
 
-blockquote:hover::{
+blockquote:hover{
   color: #b3b9f5;
   text-shadow: 0 0 8px #869cfc;
 }
