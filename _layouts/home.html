@@ -22,7 +22,7 @@ layout: default
       {% if post.tags %}
         <p class="post-tags">
           {% for tag in post.tags %}
-          tags: <span style="color:#9cdeff">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}
+          <span style="color:#9cdeff">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}
           {% endfor %}
         </p>
       {% endif %}
