@@ -66,25 +66,30 @@
       }
     });
     
-// all glowing at the same time
-  let allGlowingTriggered = false;
+// check all glowing
+    
+let allGlowingTriggered = false;
+
+function checkAllGlowing() {
+  if (allGlowingTriggered) return;
+
   const clickables = document.querySelectorAll('.clickable');
   const allGlowing = [...clickables].every(el => el.classList.contains('glow'));
-  
-  function checkAllGlowing() {
+
   if (allGlowing) {
     allGlowingTriggered = true;
-    
+
     document.body.classList.add('pulse-bg');
 
-  setTimeout(() => {
-    document.body.classList.remove('pulse-bg');
-  }, 30000);
+    setTimeout(() => {
+      document.body.classList.remove('pulse-bg');
+    }, 30000);
+  }
 }
 
-}
     
   // glowing blockquote
+  
       document.addEventListener('DOMContentLoaded', () => {
       document.querySelectorAll('.clickable').forEach(el => {
         el.addEventListener('click', () => {
