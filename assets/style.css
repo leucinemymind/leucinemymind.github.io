@@ -31,13 +31,13 @@
 
 @keyframes bgpulse {
   0% {
-    background-color: initial;
+    background-color: #0a1045;
   }
   50% {
     background-color: black;
   }
   100% {
-    background-color: initial;
+    background-color: #0a1045;
   }
 }
 

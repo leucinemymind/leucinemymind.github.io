@@ -79,18 +79,18 @@
   // all glowing at the same time
   function checkAllGlowing() {
   if (allGlowingTriggered) return;
-
-  const allGlowing = [...hoverables].every(el => el.classList.contains('glow'));
+  const clickables = document.querySelectorAll('.clickable');
+  const allGlowing = [...clickables].every(el => el.classList.contains('glow'));
   if (allGlowing) {
     allGlowingTriggered = true;
     
-    const quote = document.querySelector('blockquote');
-    quote.classList.add('pulse-bg');
+    document.body.classList.add('pulse-bg');
 
-    setTimeout(() => {
-      quote.classList.remove('pulse-bg');
-    }, 2000);
-  }
+  setTimeout(() => {
+    document.body.classList.remove('pulse-bg');
+  }, 10000);
+}
+
 }
   </script>
 
