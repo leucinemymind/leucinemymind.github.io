@@ -37,13 +37,16 @@ normal text = memorable, but not up there <br/>
 - *Uncle Tom's Cabin* by Harriet Beecher Stowe
 - *Wuthering Heights* by Emily Brontë
 
-### popular science
+### sci-fi and popular science
 
 - *Blue Hope: Exploring and Caring for Earth's Magnificent Ocean* by Sylvia Earle
 - <span style="font-weight: bold; text-decoration: underline">*Cosmos* by Carl Sagan</span>
+- *Ender's Game* by Orson Scott Card
 - *On the Origin of Species* by Charles Darwin
 - ***Silent Spring*** **by Rachel Carson**
 - <span style="color:#4a4aa8">*The Edge of the Sea* by Rachel Carson</span>
+- ***The Last Cuentista*** **by Donna Barba Higuera**
+- *The Three-Body Problem* by Cixin Liu
 
 ### miscellaneous
 
