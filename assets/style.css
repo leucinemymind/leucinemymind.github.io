@@ -15,7 +15,7 @@
   content: "♡";
 }
 
-.hoverable {
+.clickable {
     cursor: pointer;
     transition: color 0.4s ease, text-shadow 0.4s ease;
   }

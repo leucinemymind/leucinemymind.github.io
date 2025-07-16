@@ -67,13 +67,12 @@
     });
     
   // glowing blockquote
-    document.querySelectorAll('.hoverable').forEach(el => {
-    el.addEventListener('mouseenter', () => {
-      if (!el.classList.contains('glow')) {
-        el.classList.add('glow');
-      }
+  document.querySelectorAll('.clickable').forEach(el => {
+    el.addEventListener('click', () => {
+      el.classList.toggle('glow');
     });
   });
+
   
   // all glowing at the same time
   function checkAllGlowing() {
