@@ -2,9 +2,7 @@
 layout: default
 permalink: /books/
 ---
-
-
-# my favorite books
+# my favorite books!
 
 - *Brave New World* by **Aldous Huxley**
 - *Cosmos* by **Carl Sagan**
