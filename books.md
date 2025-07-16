@@ -32,7 +32,9 @@ normal text = memorable, but not up there <br/>
 - *The Little Mermaid* by Hans Christian Andersen
 - *The Old Man and the Sea* by Ernest Hemingway
 - *The Snow Queen* by Hans Christian Andersen
+- ***To Kill a Mockingbird*** **by Harper Lee**
 - *Uncle Tom's Cabin* by Harriet Beecher Stowe
+- *Wuthering Heights* by Emily Brontë
 
 ### popular science
 
