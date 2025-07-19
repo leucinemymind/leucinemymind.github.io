@@ -58,8 +58,10 @@ normal text = memorable, but not up there <br/>
 ### miscellaneous
 
 - *An Abundance of Katherines* by John Green
+- <span style="font-weight: bold; text-decoration: underline">*Lessons in Chemistry* by Bonnie Garmus</span>
 - ***Looking for Alaska*** **by John Green**
 - ***The Book Thief*** **by Markus Zusak**
+- ***The Log From the Sea of Cortez*** **by John Steinbeck**
 - <span style="font-weight: bold; text-decoration: underline">*The Fault in Our Stars* by John Green</span>
 - <span style="font-weight: bold; text-decoration: underline">*The Joy Luck Club* by Amy Tan</span>
 - ***Turtles All The Way Down*** **by John Green**
