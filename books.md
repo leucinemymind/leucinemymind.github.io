@@ -52,14 +52,15 @@ normal text = memorable, but not up there <br/>
 - *On the Origin of Species* by Charles Darwin
 - ***Silent Spring*** **by Rachel Carson**
 - <span style="color:#4a4aa8">*The Edge of the Sea* by Rachel Carson</span>
-- ***The Last Cuentista*** **by Donna Barba Higuera**
+- ***The Immortal Life of Henrietta Lacks*** **by Rebecca Skloot**
+- *The Last Cuentista* by Donna Barba Higuera
 - *The Three-Body Problem* by Cixin Liu
 
 ### miscellaneous
 
 - *An Abundance of Katherines* by John Green
 - <span style="font-weight: bold; text-decoration: underline">*Lessons in Chemistry* by Bonnie Garmus</span>
-- ***Looking for Alaska*** **by John Green**
+- *Looking for Alaska* by John Green
 - ***The Book Thief*** **by Markus Zusak**
 - ***The Log From the Sea of Cortez*** **by John Steinbeck**
 - <span style="font-weight: bold; text-decoration: underline">*The Fault in Our Stars* by John Green</span>
