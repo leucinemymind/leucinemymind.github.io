@@ -49,9 +49,11 @@ normal text = memorable, but not up there <br/>
 
 - *Blue Hope: Exploring and Caring for Earth's Magnificent Ocean* by Sylvia Earle
 - <span style="font-weight: bold; text-decoration: underline">*Cosmos* by Carl Sagan</span>
+- *Death's End* by Cixin Liu
 - *Ender's Game* by Orson Scott Card
 - *On the Origin of Species* by Charles Darwin
 - ***Silent Spring*** **by Rachel Carson**
+- *The Dark Forest* by Cixin Liu
 - <span style="color:#4a4aa8">*The Edge of the Sea* by Rachel Carson</span>
 - ***The Immortal Life of Henrietta Lacks*** **by Rebecca Skloot**
 - *The Last Cuentista* by Donna Barba Higuera
