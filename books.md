@@ -49,6 +49,7 @@ normal text = memorable, but not up there <br/>
 
 - *Blue Hope: Exploring and Caring for Earth's Magnificent Ocean* by Sylvia Earle
 - <span style="font-weight: bold; text-decoration: underline">*Cosmos* by Carl Sagan</span>
+- *Darwin's Ghost* by Steve Jones
 - *Death's End* by Cixin Liu
 - *Ender's Game* by Orson Scott Card
 - *On the Origin of Species* by Charles Darwin
