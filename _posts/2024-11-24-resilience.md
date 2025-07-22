@@ -1,6 +1,6 @@
 ---
 title: "Resilience"
-date: 2025-11-24
+date: 2024-11-24
 tags: [personal, poetry]
 ---
 
