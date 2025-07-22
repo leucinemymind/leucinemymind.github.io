@@ -25,6 +25,7 @@ normal text = memorable, but not up there <br/>
 - ***Brave New World*** **by Aldous Huxley**
 - *Catherine, Called Birdy* by Karen Cushman
 - <span style="font-weight: bold; text-decoration: underline">*East of Eden* by John Steinbeck</span> (review coming soon!)
+- *Go Set A Watchman* by Harper Lee
 - *Fahrenheit 451* by Ray Bradbury
 - ***Frankenstein*** **by Mary Shelley**
 - <span style="font-weight: bold; text-decoration:underline">*Jane Eyre* by Charlotte Brontë</span>
@@ -59,9 +60,13 @@ normal text = memorable, but not up there <br/>
 ### miscellaneous
 
 - *An Abundance of Katherines* by John Green
+- *Gathering Blue* by Lois Lowry
 - <span style="font-weight: bold; text-decoration: underline">*Lessons in Chemistry* by Bonnie Garmus</span>
 - *Looking for Alaska* by John Green
+- *Messenger* by Lois Lowry
+- *Son* by Lois Lowry
 - ***The Book Thief*** **by Markus Zusak**
+- *The Giver* by Lois Lowry
 - ***The Log From the Sea of Cortez*** **by John Steinbeck**
 - <span style="font-weight: bold; text-decoration: underline">*The Fault in Our Stars* by John Green</span>
 - <span style="font-weight: bold; text-decoration: underline">*The Joy Luck Club* by Amy Tan</span>
