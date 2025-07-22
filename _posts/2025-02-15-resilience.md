@@ -1,10 +1,10 @@
 ---
 title: "Resilience"
-date: 2025-02-15
+date: 2025-11-24
 tags: [personal, poetry]
 ---
 
-*I visited a lovely place where ecosystems weave together seamlessly that was unfortunately stricken by natural disaster. These were my thoughts.*
+*About a week ago, I visited a lovely place where ecosystems weave together seamlessly that was unfortunately devastated by natural disaster. These were my thoughts.*
 
 There, above the leaves, <br>
 the heaven-born stars, <br>
