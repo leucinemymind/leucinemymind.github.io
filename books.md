@@ -18,6 +18,12 @@ normal text = memorable, but not up there <br/>
 
 </div>
 
+### biographies
+- *Becoming* by Michelle Obama
+- *Life in Motion* by Misty Copeland
+- ***Saving Five*** **by Amanda Nguyen**
+- *Swimming Against the Current* by Riley Gaines
+
 ### classics
 
 - *A Christmas Carol* by Charles Dickens
@@ -45,22 +51,7 @@ normal text = memorable, but not up there <br/>
 - *Uncle Tom's Cabin* by Harriet Beecher Stowe
 - *Wuthering Heights* by Emily Brontë
 
-### sci-fi and popular science
-
-- *Blue Hope: Exploring and Caring for Earth's Magnificent Ocean* by Sylvia Earle
-- <span style="font-weight: bold; text-decoration: underline">*Cosmos* by Carl Sagan</span>
-- *Darwin's Ghost* by Steve Jones
-- *Death's End* by Cixin Liu
-- *Ender's Game* by Orson Scott Card
-- *On the Origin of Species* by Charles Darwin
-- ***Silent Spring*** **by Rachel Carson**
-- *The Dark Forest* by Cixin Liu
-- <span style="color:#4a4aa8">*The Edge of the Sea* by Rachel Carson</span>
-- ***The Immortal Life of Henrietta Lacks*** **by Rebecca Skloot**
-- *The Last Cuentista* by Donna Barba Higuera
-- *The Three-Body Problem* by Cixin Liu
-
-### miscellaneous
+### contemporary novels
 
 - *An Abundance of Katherines* by John Green
 - *Gathering Blue* by Lois Lowry
@@ -68,11 +59,31 @@ normal text = memorable, but not up there <br/>
 - *Looking for Alaska* by John Green
 - *Messenger* by Lois Lowry
 - *Son* by Lois Lowry
+- ***Turtles All The Way Down*** **by John Green**
+- *Will Grayson, Will Grayson* by John Green and David Levithan
+
+### modern classics
 - ***The Book Thief*** **by Markus Zusak**
 - *The Giver* by Lois Lowry
 - ***The Log From the Sea of Cortez*** **by John Steinbeck**
 - <span style="font-weight: bold; text-decoration: underline">*The Fault in Our Stars* by John Green</span>
 - <span style="font-weight: bold; text-decoration: underline">*The Joy Luck Club* by Amy Tan</span>
-- ***Turtles All The Way Down*** **by John Green**
 - <span style="font-weight: bold; text-decoration: underline">*Where the Crawdads Sing* by Delia Owens</span> ([review](https://leucinemymind.github.io/2025/07/15/wtcds.html))
-- *Will Grayson, Will Grayson* by John Green and David Levithan
+
+### popular science
+
+- *Blue Hope: Exploring and Caring for Earth's Magnificent Ocean* by Sylvia Earle
+- <span style="font-weight: bold; text-decoration: underline">*Cosmos* by Carl Sagan</span>
+- *Darwin's Ghost* by Steve Jones
+- *On the Origin of Species* by Charles Darwin
+- ***Silent Spring*** **by Rachel Carson**
+- <span style="color:#4a4aa8">*The Edge of the Sea* by Rachel Carson</span>
+- ***The Immortal Life of Henrietta Lacks*** **by Rebecca Skloot**
+
+### science fiction
+
+- *Death's End* by Cixin Liu
+- *Ender's Game* by Orson Scott Card
+- *The Dark Forest* by Cixin Liu
+- *The Last Cuentista* by Donna Barba Higuera
+- *The Three-Body Problem* by Cixin Liu
