@@ -26,6 +26,7 @@ normal text = memorable, but not up there <br/>
 
 ### canonical classics
 
+- *A Little Princess* by Frances Hodgkin Burnett
 - ***Frankenstein*** **by Mary Shelley**
 - <span style="font-weight: bold; text-decoration:underline">*Jane Eyre* by Charlotte Brontë</span>
 - ***Little Women*** **by Louisa May Alcott**
