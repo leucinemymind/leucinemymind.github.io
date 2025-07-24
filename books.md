@@ -26,7 +26,6 @@ normal text = memorable, but not up there <br/>
 
 ### canonical classics
 
-- *A Christmas Carol* by Charles Dickens
 - ***Frankenstein*** **by Mary Shelley**
 - <span style="font-weight: bold; text-decoration:underline">*Jane Eyre* by Charlotte Brontë</span>
 - ***Little Women*** **by Louisa May Alcott**
@@ -45,6 +44,7 @@ normal text = memorable, but not up there <br/>
 - *Looking for Alaska* by John Green
 - *Messenger* by Lois Lowry
 - *Son* by Lois Lowry
+- ***The Secret Life of Bees*** **by Sue Monk Kidd**
 - ***Turtles All The Way Down*** **by John Green**
 - *Will Grayson, Will Grayson* by John Green and David Levithan
 
@@ -96,5 +96,6 @@ normal text = memorable, but not up there <br/>
 
 ### short stories
 
+- *A Christmas Carol* by Charles Dickens
 - *The Metamorphosis* by Franz Kafka
 - *The Monkey's Paw* by W.W. Jacobs
