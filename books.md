@@ -29,7 +29,7 @@ normal text = memorable <br/>
 
 - *A Little Princess* by Frances Hodgson Burnett
 - ***Frankenstein*** **by Mary Shelley**
-- <span style="font-weight: bold; text-decoration:underline">*Jane Eyre* by Charlotte Brontë</span>
+- ***Jane Eyre*** **by Charlotte Brontë**
 - ***Little Women*** **by Louisa May Alcott**
 - *Oliver Twist* by Charles Dickens
 - *Pride and Prejudice* by Jane Austen
@@ -47,7 +47,7 @@ normal text = memorable <br/>
 - *Messenger* by Lois Lowry
 - *Son* by Lois Lowry
 - ***The Secret Life of Bees*** **by Sue Monk Kidd**
-- ***Turtles All The Way Down*** **by John Green**
+- *Turtles All The Way Down* by John Green
 - *Will Grayson, Will Grayson* by John Green and David Levithan
 
 ### fantasy and mythology
@@ -100,7 +100,7 @@ normal text = memorable <br/>
 - *Death's End* by Cixin Liu
 - *Ender's Game* by Orson Scott Card
 - *The Dark Forest* by Cixin Liu
-- *The Last Cuentista* by Donna Barba Higuera
+- ***The Last Cuentista*** **by Donna Barba Higuera**
 - *The Three-Body Problem* by Cixin Liu
 - *The Wandering Earth* by Cixin Liu
 
