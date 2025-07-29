@@ -12,13 +12,14 @@ Hierarchies are a must for reading lists, so: <br/><br/>
 
 <span style="font-weight: bold">bold = my favorites</span> <br/>
 
-normal text = memorable, but not up there <br/>
+normal text = memorable <br/>
 
 <span style="color:#4a4aa8">blue = currently reading</span> <br/>
 
 </div>
 
 ### biographies
+
 - *Becoming* by Michelle Obama
 - *Life in Motion* by Misty Copeland
 - ***Saving Five*** **by Amanda Nguyen**
@@ -32,7 +33,7 @@ normal text = memorable, but not up there <br/>
 - ***Little Women*** **by Louisa May Alcott**
 - *Oliver Twist* by Charles Dickens
 - *Pride and Prejudice* by Jane Austen
-- <span style="color:#4a4aa8">*The Age of Innocence* by Edith Wharton</span>
+- *The Age of Innocence* by Edith Wharton
 - ***To Kill a Mockingbird*** **by Harper Lee**
 - *Uncle Tom's Cabin* by Harriet Beecher Stowe
 - *Wuthering Heights* by Emily Brontë
@@ -67,6 +68,7 @@ normal text = memorable, but not up there <br/>
 - *Fahrenheit 451* by Ray Bradbury
 - *Number the Stars* by Lois Lowry
 - *Of Mice and Men* by John Steinbeck
+- <span style="color:#4a4aa8">*The Bell Jar* by Sylvia Plath</span>
 - ***The Book Thief*** **by Markus Zusak**
 - *The Giver* by Lois Lowry
 - ***The Log From the Sea of Cortez*** **by John Steinbeck**
@@ -76,6 +78,10 @@ normal text = memorable, but not up there <br/>
 - ***The Pearl*** **by John Steinbeck**
 - *The Red Pony* by John Steinbeck
 - <span style="font-weight: bold; text-decoration: underline">*Where the Crawdads Sing* by Delia Owens</span> ([review](https://leucinemymind.github.io/2025/07/15/wtcds.html))
+
+### poetry
+
+- *Aire Encantado* by Margarita Engle
 
 ### popular science
 
