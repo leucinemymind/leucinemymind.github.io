@@ -60,10 +60,12 @@ normal text = memorable, but not up there <br/>
 
 ### modern classics
 
+- <span style="font-weight: bold; text-decoration: underline">*A Thousand Splendid Suns* by Khaled Hosseini</span>
 - *Catherine, Called Birdy* by Karen Cushman
 - *Go Set A Watchman* by Harper Lee
 - <span style="font-weight: bold; text-decoration: underline">*East of Eden* by John Steinbeck</span> (review coming soon!)
 - *Fahrenheit 451* by Ray Bradbury
+- *Number the Stars* by Lois Lowry
 - *Of Mice and Men* by John Steinbeck
 - ***The Book Thief*** **by Markus Zusak**
 - *The Giver* by Lois Lowry
@@ -87,6 +89,7 @@ normal text = memorable, but not up there <br/>
 
 ### science fiction
 
+- *A Wrinkle in Time* by Madeleine L'Engle
 - ***Brave New World*** **by Aldous Huxley**
 - *Death's End* by Cixin Liu
 - *Ender's Game* by Orson Scott Card
