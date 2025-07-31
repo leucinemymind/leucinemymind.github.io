@@ -1,7 +1,7 @@
 ---
 title: "Resilience"
 date: 2024-11-24
-tags: [personal, poetry]
+tags: [poetry]
 ---
 
 *About a week ago, I visited a lovely place where ecosystems weave together seamlessly that was unfortunately devastated by natural disaster. These were my thoughts.*
