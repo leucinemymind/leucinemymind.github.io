@@ -88,6 +88,7 @@ normal text = memorable <br/>
 - *Blue Hope: Exploring and Caring for Earth's Magnificent Ocean* by Sylvia Earle
 - <span style="font-weight: bold; text-decoration: underline">*Cosmos* by Carl Sagan</span>
 - *Darwin's Ghost* by Steve Jones
+- <span style="font-weight: bold; text-decoration: underline">*Everything is Tuberculosis* by John Green</span>
 - *On the Origin of Species* by Charles Darwin
 - ***Silent Spring*** **by Rachel Carson**
 - <span style="color:#4a4aa8">*The Edge of the Sea* by Rachel Carson</span>
