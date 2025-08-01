@@ -22,8 +22,6 @@ normal text = memorable <br/>
 
 - *Becoming* by Michelle Obama
 - *Life in Motion* by Misty Copeland
-- ***Saving Five*** **by Amanda Nguyen**
-- *Swimming Against the Current* by Riley Gaines
 
 ### canonical classics
 
@@ -59,6 +57,12 @@ normal text = memorable <br/>
 - *The Odyssey* by Homer
 - *The Snow Queen* by Hans Christian Andersen
 
+### memoirs
+
+- *Aire Encantado* by Margarita Engle
+- ***Saving Five*** **by Amanda Nguyen**
+- *Swimming Against the Current* by Riley Gaines
+
 ### modern classics
 
 - <span style="font-weight: bold; text-decoration: underline">*A Thousand Splendid Suns* by Khaled Hosseini</span>
@@ -78,10 +82,6 @@ normal text = memorable <br/>
 - ***The Pearl*** **by John Steinbeck**
 - *The Red Pony* by John Steinbeck
 - <span style="font-weight: bold; text-decoration: underline">*Where the Crawdads Sing* by Delia Owens</span> ([review](https://leucinemymind.github.io/2025/07/15/wtcds.html))
-
-### poetry
-
-- *Aire Encantado* by Margarita Engle
 
 ### popular science
 
