@@ -62,6 +62,7 @@ normal text = memorable <br/>
 - *Aire Encantado* by Margarita Engle
 - ***Saving Five*** **by Amanda Nguyen**
 - *Swimming Against the Current* by Riley Gaines
+- ***The Log From the Sea of Cortez*** **by John Steinbeck**
 
 ### modern classics
 
@@ -75,7 +76,6 @@ normal text = memorable <br/>
 - <span style="color:#4a4aa8">*The Bell Jar* by Sylvia Plath</span>
 - ***The Book Thief*** **by Markus Zusak**
 - *The Giver* by Lois Lowry
-- ***The Log From the Sea of Cortez*** **by John Steinbeck**
 - <span style="font-weight: bold; text-decoration: underline">*The Fault in Our Stars* by John Green</span>
 - <span style="font-weight: bold; text-decoration: underline">*The Joy Luck Club* by Amy Tan</span>
 - *The Old Man and the Sea* by Ernest Hemingway
