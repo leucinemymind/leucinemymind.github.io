@@ -7,7 +7,7 @@ title: emily's blog
 
 You found my little internet corner! Welcome!
 
-I'm Emily, a rising junior in high school and professional Googler of things I thought I already knew. I share my real (read: mildly disastrous) experiences learning whatever the world decides to throw at me. I love biology, especially biophysics/biochemistry, programming, the performing arts, the ocean, Bo Burnham's music, Nerdfighteria, and reading a good [book](/books/) on the beach.
+I'm Emily, a rising junior in high school and professional Googler of things I thought I already knew. I share my real (read: mildly disastrous) experiences learning whatever the world decides to throw at me. I love biology, especially biophysics/biochemistry, programming, the performing arts, the ocean, Bo Burnham's music, Modern Family, Nerdfighteria, and reading a good [book](/books/) (preferably *East of Eden*) on the beach.
 
 My past endeavors:
 - Introductory biochemistry research focusing on the thermodynamics of protein folding
